@@ -1,10 +1,11 @@
-# Foundations of Computer Science Classwork 03
+# Foundations of Computer Science Classwork 04
 #### Name0:
 #### Name1:
-#### Name2: (if applicable)
+#### Name2:
+#### Name3:
 #### Period:
 ---
-## `"theoretical hungry zebra creates cake"`
+# `"theoretical hungry zebra creates cake"`
 
 ### Getting Started
 In this repository you will find the following files:
@@ -15,7 +16,7 @@ In this repository you will find the following files:
 - nouns.txt, adjectives.txt, verbs.txt
   - These text files will eventually contain at least 10 words of the appropriate type (i.e. nouns.txt should only have nouns).
 
-Copy the contents of sentence.rkt into DrRacket. Save that file to your computer. Also, create the txt files on your computer in the same directory as your racket file. To start, the txt files only need to have one word in each. Before doing anything else, make sure your racket code runs.
+Copy the contents of sentence.rkt into DrRacket. Save that file to your computer. Also, create the txt files on your computer in the same directory as your racket file. To start, the txt files only need to have one word in each. Before doing anything else, make sure the racket code runs.
 
 When you are done, make sure all the files on GitHub have your contributions.
 
