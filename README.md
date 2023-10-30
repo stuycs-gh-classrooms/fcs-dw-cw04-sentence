@@ -36,7 +36,7 @@ What type of value is returned by the `noun`, `verb`, `article`, and `adjective`
 YOUR ANSER HERE (remove this line and add your response).
 
 #### Question 2
-What type of value is returned by the `wordy-noun`, `subject`, and `verb-phrase` functions?
+What type of value is returned by the `wordy-noun`, `noun-phrase`, and `verb-phrase` functions?
 
 YOUR ANSER HERE (remove this line and add your response).
 
